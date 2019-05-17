@@ -1,6 +1,6 @@
 Dot Net Core Single
 -----
-An example ASP.NET Core API within a single docker
+An example ASP.NET Core API within a single docker container
 
 In order to run this app, run the following commands in root directory:
 * docker build . -t dotnetcoresingledocker:v1
