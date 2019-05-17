@@ -1,4 +1,4 @@
-Dot Net Core Single
+Dot Net Core Single Container
 -----
 An example ASP.NET Core API within a single docker container
 
